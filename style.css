@@ -187,4 +187,8 @@ a {
 	.wrapper {
 		font-size: 0.7em;
 	}
+
+	a{
+		margin-bottom: 200px;
+	}
 }
